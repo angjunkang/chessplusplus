@@ -5,7 +5,10 @@
 
 ## Overview
 
-![alt text](<Screenshot 2024-10-02 172230.png>)
+<div style="display: flex; justify-content: space-between; width: 100%;">
+    <img src="/img/board.png" style="width: 48%;" alt="Chess board screenshot">
+    <img src="/img/move.png" style="width: 48%;" alt="Chess move screenshot">
+</div>
 
 ChessPlusPlus is a desktop chess application built using C++ and SDL2. It provides a simple, interactive environment to play chess, leveraging the SDL2 library for graphics and user interaction.
 
